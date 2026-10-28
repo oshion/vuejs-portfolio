@@ -43,7 +43,7 @@
 				요즘은 시각적인 표현에 흥미가 생겨 프론트엔드 개발을 공부하며, 처음부터
 				끝까지 개발할 수 있는 풀스택 개발자를 목표로 노력 중입니다.
 				<br />
-				또한, 상용화된 AI 모델에 파인튜닝과 RAG를 활용해 챗봇을 만들어보는
+				또한, 상용화된 AI 모델에 파인튜닝과 RAG, MCP를 활용해 챗봇을 만들어보는
 				것에도 관심을 가지고 있습니다.
 			</p>
 		</div>
@@ -72,12 +72,16 @@
 								<li>
 									<i class="bi bi-chevron-right"></i>
 									<strong>Website:</strong>
-									<span>http://43.201.140.228:7000</span>
+									<a href="https://inhoochoi.com" target="_blank"
+										><span>https://inhoochoi.com</span></a
+									>
 								</li>
 								<li>
 									<i class="bi bi-chevron-right"></i>
 									<strong>GitHub:</strong>
-									<span>https://github.com/oshion</span>
+									<a href="https://github.com/oshion" target="_blank"
+										><span>https://github.com/oshion</span></a
+									>
 								</li>
 								<li>
 									<i class="bi bi-chevron-right"></i> <strong>Phone:</strong>
@@ -754,8 +758,8 @@
 					</div> -->
 					<!-- End Portfolio Item -->
 
-					<!-- <div class="col-lg-4 col-md-6 portfolio-item">
-						<RouterLink to="/toyproject">
+					<div class="col-lg-4 col-md-6 portfolio-item">
+						<a href="https://carrec.inhoochoi.com/" target="_blank">
 							<img
 								src="@/assets/img/masonry-portfolio/toyproject.png"
 								class="img-fluid transparentsoft-image"
@@ -763,11 +767,16 @@
 							/>
 
 							<div class="portfolio-info">
-								<h4>여행전에</h4>
-								<p>각 나라의 도시별 여행정보를 모아놓은 사이트 입니다.</p>
+								<h4>AI 자동차 비교 추천</h4>
+								<p>
+									기존 단순 차량 수치 비교에서 고민하고 있는 차량들의 정보를
+								</p>
+								<p>사용자의 조건에 맞추어 AI가 자동으로 차량을 추천해줍니다.</p>
 							</div>
-						</RouterLink>
-					</div> -->
+						</a>
+
+						<RouterLink to="/toyproject"> </RouterLink>
+					</div>
 					<!-- End Portfolio Item -->
 
 					<div class="col-lg-4 col-md-6 portfolio-item">

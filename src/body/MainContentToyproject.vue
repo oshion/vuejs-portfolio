@@ -49,6 +49,41 @@
 			</div>
 
 			<div class="row justify-content-between gy-4 mt-4">
+				<div class="col-lg-3" data-aos="fade-up" data-aos-delay="100">
+					<div class="portfolio-info">
+						<h3>Project Tech Stack</h3>
+						<ul>
+							<strong>SERVER</strong>
+							<li>CloudFront</li>
+							<li>S3</li>
+							<li>EKS</li>
+						</ul>
+						<ul>
+							<strong>FRONT</strong>
+							<li>Nuxt3</li>
+							<li>TypeScript</li>
+						</ul>
+						<ul>
+							<strong>BACK</strong>
+							<li>python</li>
+						</ul>
+						<ul>
+							<strong>DATABASE</strong>
+							<li>MariaDB</li>
+						</ul>
+						<ul>
+							<li>
+								<a
+									href="https://d1ufq4k10jajyr.cloudfront.net/"
+									target="_blank"
+									class="btn-visit align-self-start"
+									>Visit Website</a
+								>
+							</li>
+						</ul>
+					</div>
+				</div>
+
 				<div class="col-lg-8" data-aos="fade-up">
 					<div class="portfolio-description">
 						<h2>여행정보를 한눈에</h2>
@@ -87,37 +122,6 @@
 								<h4>Designer</h4>
 							</div>
 						</div> -->
-					</div>
-				</div>
-
-				<div class="col-lg-3" data-aos="fade-up" data-aos-delay="100">
-					<div class="portfolio-info">
-						<h3>Project Tech Stack</h3>
-						<ul>
-							<strong>SERVER</strong>
-							<li>Ubuntu 20.04.6</li>
-						</ul>
-						<ul>
-							<strong>FRONT</strong>
-							<li>vue3 3.4.21</li>
-							<li>bootstrap</li>
-							<li>google map</li>
-						</ul>
-						<ul>
-							<strong>BACK</strong>
-							<li>spring boot 3.3.3</li>
-							<li>gradle 8.10</li>
-							<li>JPA</li>
-						</ul>
-						<ul>
-							<strong>DATABASE</strong>
-							<li>MariaDB</li>
-						</ul>
-						<ul>
-							<li>
-								<a href="#" class="btn-visit align-self-start">Visit Website</a>
-							</li>
-						</ul>
 					</div>
 				</div>
 			</div>
